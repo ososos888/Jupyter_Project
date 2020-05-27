@@ -1,0 +1,6 @@
+.data
+cifar10
+custom_data
+MNIST_data
+model
+snapshot
